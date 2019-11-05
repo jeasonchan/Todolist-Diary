@@ -1,0 +1,2 @@
+# Todolist-Diary
+以H2为数据库，angular为前端页面，dropwizard为或者直接使用node为后端，开发一个可以写日记，并且按照特定标记在一个区域内进行集合的记事本和TODO集合体。
